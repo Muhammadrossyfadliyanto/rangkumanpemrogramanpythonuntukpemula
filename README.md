@@ -27,3 +27,4 @@ Tools yang digunakan, antara lain:
 | **Pertemuan 3** | **Modul Praktikum 2 - Tipe data pada python** | Mengerti sintaks dasar pada python, dapat menjalankan program python menggunakan IDE, maupun di command prompt atau terminal. |
 
 ---
+p
