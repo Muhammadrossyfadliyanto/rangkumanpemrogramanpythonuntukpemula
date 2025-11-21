@@ -1,66 +1,29 @@
-# ============================================
-# 💻 PRAKTIKUM 1 — MENJALANKAN SYNTAX DASAR PYTHON
-# ============================================
+# Pemrograman Python untuk Pemula
 
-# Menampilkan teks
-print("Hello, Python!")
+Repository ini merupakan modul praktikum algoritma & pemrograman 1.
 
-# Operasi aritmatika
-a = 10
-b = 5
-print("Hasil penjumlahan:", a + b)
+Mahasiswa akan belajar pemrograman menggunakan **Python** (versi 3 ke atas), selain memahami sintaks pada bahasa pemrograman python, mahasiswa mengerti konsep dari algoritma, logika dalam memecahkan masalah dan mengimplementasikannya ke dalam bahasa pemrograman.
 
-# Input sederhana
-# (Jika dijalankan di Jupyter/Colab, input dapat menunggu masukan)
-nama = input("Masukkan nama Anda: ")
-print("Halo,", nama)
+---
 
+## 🛠️ Tools (IDE, compiler)
 
+Tools yang digunakan, antara lain:
 
-# ============================================
-# 💻 PRAKTIKUM 2 — TIPE DATA PYTHON
-# ============================================
+* **Python** latest
+* **Pycharm IDE**
+* **Jupyter-Notebook**
+* **Jupyter-Lab**
+* **Google Colab**
 
-# Tipe data dasar
-nama_pengguna = "Rafi"      # string
-umur = 20                   # integer
-tinggi = 170.5              # float
-mahasiswa = True            # boolean
+---
 
-print(type(nama_pengguna))
-print(type(umur))
-print(type(tinggi))
-print(type(mahasiswa))
+## 📅 Pertemuan & Materi Praktikum
 
-# Konversi tipe data
-angka = "100"
-angka_int = int(angka)
-angka_float = float(angka)
+| Pertemuan | Materi Pertemuan | Keterangan |
+| :---: | :--- | :--- |
+| **Pertemuan 1** | Perkenalan dan penjelasan mengenai RPS Praktikum Algoritma dan Pemrograman. | |
+| **Pertemuan 2** | **Modul Praktikum 1 - Menjalankan sintaks dasar python** | Mengerti sintaks dasar pada python dan mampu menjalankan program python menggunakan IDE, maupun di command prompt atau terminal. |
+| **Pertemuan 3** | **Modul Praktikum 2 - Tipe data pada python** | Mengerti sintaks dasar pada python, dapat menjalankan program python menggunakan IDE, maupun di command prompt atau terminal. |
 
-print(angka_int)
-print(angka_float)
-
-
-
-# ============================================
-# 💻 PRAKTIKUM 3 — OPERATOR, INPUT, DAN OUTPUT
-# ============================================
-
-# Operator aritmatika
-x = 15
-y = 4
-
-print("Tambah:", x + y)
-print("Kurang:", x - y)
-print("Kali:", x * y)
-print("Bagi:", x / y)
-print("Modulus:", x % y)
-print("Pangkat:", x ** y)
-
-# Program sederhana menggunakan input
-nama_siswa = input("Masukkan nama Anda: ")
-nilai1 = int(input("Masukkan nilai pertama: "))
-nilai2 = int(input("Masukkan nilai kedua: "))
-
-rata_rata = (nilai1 + nilai2) / 2
-print(f"Halo {nama_siswa}, nilai rata-rata kamu adalah {rata_rata}")
+---
