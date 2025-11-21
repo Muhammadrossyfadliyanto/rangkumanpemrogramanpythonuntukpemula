@@ -23,15 +23,6 @@ Tools yang digunakan, antara lain:
 | Pertemuan | Materi Pertemuan | Keterangan |
 | :---: | :--- | :--- |
 | **Pertemuan 1** | Perkenalan dan penjelasan mengenai RPS Praktikum Algoritma dan Pemrograman. | | Mengenal dasar Python, memahami syntax sederhana, dan dapat menjalankan program melalui IDE, terminal, atau notebook.
-
-Materi:
-
-Perintah dasar (print)
-
-Variabel & operasi aritmatika
-
-Input pengguna (input)
-
 | **Pertemuan 2** | **Modul Praktikum 1 - Menjalankan sintaks dasar python** | Mengerti sintaks dasar pada python dan mampu menjalankan program python menggunakan IDE, maupun di command prompt atau terminal. |
 | **Pertemuan 3** | **Modul Praktikum 2 - Tipe data pada python** | Mengerti sintaks dasar pada python, dapat menjalankan program python menggunakan IDE, maupun di command prompt atau terminal. |
 
